@@ -2,7 +2,16 @@
 
 ## Text Mining
 
+### TV Series and movies
+
 - [A TIDY TEXT ANALYSIS OF RICK AND MORTY](http://tamaszilagyi.com/blog/a-tidy-text-analysis-of-rick-and-morty/)
+- [The Simpsons by the Data](http://toddwschneider.com/posts/the-simpsons-by-the-data/)
+- [Visualizing Star Wars Movie Scripts](https://github.com/gastonstat/StarWars)
+- [Text Mining South Park]()
+
+### Others
+
+- [king - man + woman is queen; but why?](http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html?utm_content=buffer1e4da&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Solar Panel
 
@@ -17,9 +26,6 @@
 
 - [Posterior probability of null hypotheses given a statistically significant result](http://www.ling.uni-potsdam.de/~vasishth/slog/pvalsnull2.html)
 
-# Survival
-
-- [Steps to Perform Survival Analysis in R](https://r-posts.com/steps-to-perform-survival-analysis-in-r/)
 
 # R
 
@@ -34,3 +40,7 @@
 ## Modelling
 
 - [Nonlinear Modeling in R with GAMs: the magical world of mgcv](https://github.com/noamross/2017-11-14-noamross-gams-nyhackr)
+
+### Survival
+
+- [Steps to Perform Survival Analysis in R](https://r-posts.com/steps-to-perform-survival-analysis-in-r/)
