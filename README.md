@@ -21,12 +21,16 @@
 # Plots
 
 - [Gráficos alternativos para grandes conjuntos de dados](https://melinaleiteblog.netlify.com/2018/01/20/alternativas-visualizar-dados/)
+- [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php?utm_content=bufferb2277&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Take a Sad Plot & Make It Better](https://alison.rbind.io/talk/ohsu-biodatavis/)
 
 # Inference
 
-- [Posterior probability of null hypotheses given a statistically significant result](http://www.ling.uni-potsdam.de/~vasishth/slog/pvalsnull2.html)
+## Bayesian
 
+- [Posterior probability of null hypotheses given a statistically significant result](http://www.ling.uni-potsdam.de/~vasishth/slog/pvalsnull2.html)
+- [Bayes' Theorem with Lego](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
+- [bayesboot:An R package for easy Bayesian bootstrapping](https://docs.google.com/presentation/d/19BWRC2zqcgzzkCExEcqBkX5UdQah8NKm8OwXZUakHa4/edit#slide=id.g14584fb881_0_0)
 
 # R
 
@@ -40,11 +44,15 @@
 
 - [Collection of functions to enhance ggplot2 plots with results from statistical tests](https://github.com/IndrajeetPatil/ggstatsplot)
 
-### Interativo
+### Interactive
 
 - [echarts4r](http://echarts4r.john-coene.com/index.html)
 
+- [Rbookeh](http://hafen.github.io/rbokeh/)
+
 ## Modelling
+
+### Non linear
 
 - [Nonlinear Modeling in R with GAMs: the magical world of mgcv](https://github.com/noamross/2017-11-14-noamross-gams-nyhackr)
 
