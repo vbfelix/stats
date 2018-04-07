@@ -21,6 +21,7 @@
 # Plots
 
 - [Gráficos alternativos para grandes conjuntos de dados](https://melinaleiteblog.netlify.com/2018/01/20/alternativas-visualizar-dados/)
+- [Take a Sad Plot & Make It Better](https://alison.rbind.io/talk/ohsu-biodatavis/)
 
 # Inference
 
@@ -33,9 +34,15 @@
 
 - [Tidy evaluation: programming with ggplot2 and dplyr](https://speakerdeck.com/hadley/tidy-evaluation-programming-with-ggplot2-and-dplyr)
 
-## ggplot2
+## Plotting
+
+### ggplot2
 
 - [Collection of functions to enhance ggplot2 plots with results from statistical tests](https://github.com/IndrajeetPatil/ggstatsplot)
+
+### Interativo
+
+- [echarts4r](http://echarts4r.john-coene.com/index.html)
 
 ## Modelling
 
