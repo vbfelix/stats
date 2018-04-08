@@ -7,7 +7,7 @@
 - [A TIDY TEXT ANALYSIS OF RICK AND MORTY](http://tamaszilagyi.com/blog/a-tidy-text-analysis-of-rick-and-morty/)
 - [The Simpsons by the Data](http://toddwschneider.com/posts/the-simpsons-by-the-data/)
 - [Visualizing Star Wars Movie Scripts](https://github.com/gastonstat/StarWars)
-- [Text Mining South Park]()
+- [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/)
 
 ### Others
 
@@ -43,8 +43,8 @@
 ### ggplot2
 
 - [Collection of functions to enhance ggplot2 plots with results from statistical tests](https://github.com/IndrajeetPatil/ggstatsplot)
-
 - [ggpage version 0.2.0 showcase](https://www.hvitfeldt.me/2018/04/ggpage-version-0-2-0-showcase/)
+- [Visualizing trigrams with the Tidyverse](https://www.hvitfeldt.me/2018/01/visualizing-trigrams-with-the-tidyverse/)
 
 ### Interactive
 
