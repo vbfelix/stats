@@ -44,6 +44,8 @@
 
 - [Collection of functions to enhance ggplot2 plots with results from statistical tests](https://github.com/IndrajeetPatil/ggstatsplot)
 
+- [ggpage version 0.2.0 showcase](https://www.hvitfeldt.me/2018/04/ggpage-version-0-2-0-showcase/)
+
 ### Interactive
 
 - [echarts4r](http://echarts4r.john-coene.com/index.html)
