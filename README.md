@@ -17,6 +17,10 @@
 
 - [king - man + woman is queen; but why?](http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html?utm_content=buffer1e4da&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+## Miscellaneous
+
+- [Kibble Analytics](https://erle.io/blog/2018-03-30-kibble-analytics/)
+
 ## Solar Panel
 
 - [SOLAR PANEL ANALYSIS PT 2: TEMPERATURE & EFFICIENCY](https://www.jeroenboeye.com/blog/solar-panel-analysis-pt-2-temperature-and-efficiency/)
@@ -49,6 +53,7 @@
 - [Collection of functions to enhance ggplot2 plots with results from statistical tests](https://github.com/IndrajeetPatil/ggstatsplot)
 - [ggpage version 0.2.0 showcase](https://www.hvitfeldt.me/2018/04/ggpage-version-0-2-0-showcase/)
 - [Visualizing trigrams with the Tidyverse](https://www.hvitfeldt.me/2018/01/visualizing-trigrams-with-the-tidyverse/)
+- [Two scales in ggplot2](https://sebastianrothbucher.github.io/datascience/r/visualization/ggplot/2018/03/24/two-scales-ggplot-r.html)
 
 ### Interactive
 
@@ -65,3 +70,6 @@
 ### Survival
 
 - [Steps to Perform Survival Analysis in R](https://r-posts.com/steps-to-perform-survival-analysis-in-r/)
+
+### Temporal
+- [Tidy anomaly detection](https://business-science.github.io/anomalize/)
