@@ -13,6 +13,7 @@
 - [The Simpsons by the Data](http://toddwschneider.com/posts/the-simpsons-by-the-data/)
 - [Visualizing Star Wars Movie Scripts](https://github.com/gastonstat/StarWars)
 - [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/)
+- [Avengers: What do they talk about?](http://www.mattwinn.com/Plot_Avengers_data.html)
 
 ### Others
 
