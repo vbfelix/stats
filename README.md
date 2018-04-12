@@ -44,6 +44,10 @@
 
 # R
 
+## Tidyverse
+
+- [Statistical Inference: A Tidy Approach](https://ismayc.github.io/talks/ness-infer/slide_deck.html#1)
+
 ## Development
 
 - [Tidy evaluation: programming with ggplot2 and dplyr](https://speakerdeck.com/hadley/tidy-evaluation-programming-with-ggplot2-and-dplyr)
