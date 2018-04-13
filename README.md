@@ -69,6 +69,10 @@
 
 ## Modelling
 
+### Mixed Models
+
+-[Julia MixedModels from R](http://rpubs.com/dmbates/377897)
+
 ### Non linear
 
 - [Nonlinear Modeling in R with GAMs: the magical world of mgcv](https://github.com/noamross/2017-11-14-noamross-gams-nyhackr)
