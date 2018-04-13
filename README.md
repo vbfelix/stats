@@ -1,7 +1,18 @@
 # Theory
 
+## Regression
 - [Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit?](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
 - [Logistic regression ](https://www.wikiwand.com/en/Logistic_regression)
+
+## Inference
+
+- [Explaining Maximum Likelihood, Maximum a Posteriori, and Bayesian Parameter Estimation](https://medium.com/@amatsukawa/maximum-likelihood-maximum-a-priori-and-bayesian-parameter-estimation-d99a23a0519f)
+
+### Bayesian
+
+- [Posterior probability of null hypotheses given a statistically significant result](http://www.ling.uni-potsdam.de/~vasishth/slog/pvalsnull2.html)
+- [Bayes' Theorem with Lego](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
+- [bayesboot:An R package for easy Bayesian bootstrapping](https://docs.google.com/presentation/d/19BWRC2zqcgzzkCExEcqBkX5UdQah8NKm8OwXZUakHa4/edit#slide=id.g14584fb881_0_0)
 
 # Cool analysis
 
@@ -34,14 +45,6 @@
 - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php?utm_content=bufferb2277&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Take a Sad Plot & Make It Better](https://alison.rbind.io/talk/ohsu-biodatavis/)
 
-# Inference
-
-## Bayesian
-
-- [Posterior probability of null hypotheses given a statistically significant result](http://www.ling.uni-potsdam.de/~vasishth/slog/pvalsnull2.html)
-- [Bayes' Theorem with Lego](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
-- [bayesboot:An R package for easy Bayesian bootstrapping](https://docs.google.com/presentation/d/19BWRC2zqcgzzkCExEcqBkX5UdQah8NKm8OwXZUakHa4/edit#slide=id.g14584fb881_0_0)
-
 # R
 
 ## Tidyverse
@@ -52,7 +55,7 @@
 
 - [Tidy evaluation: programming with ggplot2 and dplyr](https://speakerdeck.com/hadley/tidy-evaluation-programming-with-ggplot2-and-dplyr)
 
-## Plotting
+## Plots
 
 ### ggplot2
 
