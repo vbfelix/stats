@@ -71,7 +71,7 @@
 
 ### Mixed Models
 
--[Julia MixedModels from R](http://rpubs.com/dmbates/377897)
+- [Julia MixedModels from R](http://rpubs.com/dmbates/377897)
 
 ### Non linear
 
