@@ -57,12 +57,17 @@
 
 ## Plots
 
+### Base plot
+
+- [Settlers of Catan - Simulation](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/)
+
 ### ggplot2
 
 - [Collection of functions to enhance ggplot2 plots with results from statistical tests](https://github.com/IndrajeetPatil/ggstatsplot)
 - [ggpage version 0.2.0 showcase](https://www.hvitfeldt.me/2018/04/ggpage-version-0-2-0-showcase/)
 - [Visualizing trigrams with the Tidyverse](https://www.hvitfeldt.me/2018/01/visualizing-trigrams-with-the-tidyverse/)
 - [Two scales in ggplot2](https://sebastianrothbucher.github.io/datascience/r/visualization/ggplot/2018/03/24/two-scales-ggplot-r.html)
+- [Images as x-axis labels](https://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/)
 
 ### Interactive
 
