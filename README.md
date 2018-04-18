@@ -34,10 +34,16 @@
 
 - [Kibble Analytics](https://erle.io/blog/2018-03-30-kibble-analytics/)
 
-## Solar Panel
+## DataViz
 
 - [SOLAR PANEL ANALYSIS PT 2: TEMPERATURE & EFFICIENCY](https://www.jeroenboeye.com/blog/solar-panel-analysis-pt-2-temperature-and-efficiency/)
 - [SOLAR PANEL ANALYSIS PT 3: SCANNING FOR OBJECTS](https://www.jeroenboeye.com/blog/solar-panel-analysis-pt-3-scanning-for-objects/)
+
+## Modelling
+
+### Time series
+
+- [TIME SERIES DEEP LEARNING: FORECASTING SUNSPOTS WITH KERAS STATEFUL LSTM IN R](http://www.business-science.io/timeseries-analysis/2018/04/18/keras-lstm-sunspots-time-series-prediction.html)
 
 # Plots
 
