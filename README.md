@@ -50,6 +50,7 @@
 - [Gráficos alternativos para grandes conjuntos de dados](https://melinaleiteblog.netlify.com/2018/01/20/alternativas-visualizar-dados/)
 - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php?utm_content=bufferb2277&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Take a Sad Plot & Make It Better](https://alison.rbind.io/talk/ohsu-biodatavis/)
+- [Visualizing Differences](https://flowingdata.com/2018/04/17/visualizing-differences/)
 
 # R
 
