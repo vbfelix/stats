@@ -77,6 +77,7 @@
 - [Images as x-axis labels](https://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/)
 - [ggplot2: How to curve small gaussian densities on a regression line?
 ](https://stackoverflow.com/questions/31794876/ggplot2-how-to-curve-small-gaussian-densities-on-a-regression-line)
+- [The percentile bootstrap for calculating the 95%CI for the median - Animation ](https://zenodo.org/record/1219874#.WtogXIjwbIU)
 
 ### Interactive
 
