@@ -1,5 +1,8 @@
 # Theory
 
+## Plotting
+- [guiding principles](http://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles)
+
 ## Regression
 - [Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit?](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
 - [Logistic regression ](https://www.wikiwand.com/en/Logistic_regression)
