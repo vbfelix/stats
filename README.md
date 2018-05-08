@@ -6,6 +6,7 @@
 ## Regression
 - [Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit?](http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
 - [Logistic regression ](https://www.wikiwand.com/en/Logistic_regression)
+- [Feature Selection – Ten Powerful Methods with Complete Examples](https://www.machinelearningplus.com/machine-learning/feature-selection/)
 
 ## Inference
 
