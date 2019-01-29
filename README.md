@@ -1,6 +1,6 @@
 # Sumário
 1. [Regression](#Regression)
-2. [Text Mining](#Text Mining)
+2. [Text Mining](#TextMining)
 3. [Plots](#Plots)
 4. [R](#R)
 
