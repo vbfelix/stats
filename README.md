@@ -1,6 +1,6 @@
 # Sumário
 1. [Regression](#Regression)
-2. [Text Mining](#TextMining)
+2. [TextMining](#TextMining)
 3. [Plots](#Plots)
 4. [R](#R)
 
@@ -27,9 +27,11 @@
 - [Bayes' Theorem with Lego](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 - [bayesboot:An R package for easy Bayesian bootstrapping](https://docs.google.com/presentation/d/19BWRC2zqcgzzkCExEcqBkX5UdQah8NKm8OwXZUakHa4/edit#slide=id.g14584fb881_0_0)
 
+======
 # Cool analysis
+======
 
-## Text Mining
+## TextMining
 
 ### TV Series and movies
 
@@ -58,14 +60,18 @@
 
 - [TIME SERIES DEEP LEARNING: FORECASTING SUNSPOTS WITH KERAS STATEFUL LSTM IN R](http://www.business-science.io/timeseries-analysis/2018/04/18/keras-lstm-sunspots-time-series-prediction.html)
 
+======
 # Plots
+======
 
 - [Gráficos alternativos para grandes conjuntos de dados](https://melinaleiteblog.netlify.com/2018/01/20/alternativas-visualizar-dados/)
 - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php?utm_content=bufferb2277&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Take a Sad Plot & Make It Better](https://alison.rbind.io/talk/ohsu-biodatavis/)
 - [Visualizing Differences](https://flowingdata.com/2018/04/17/visualizing-differences/)
 
+======
 # R
+======
 
 ## Tidyverse
 
