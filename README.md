@@ -1,7 +1,9 @@
-# Table of Contents
+# Sumário
 1. [Regression](#Regression)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+2. [Text Mining](#Text Mining)
+3. [Plots](#Plots)
+4. [R](#R)
+
 
 # Theory
 
